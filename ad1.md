@@ -1,0 +1,9 @@
+# Refugiados de Ucrania
+## Actividad dirigida 1
+### La infografía es una exposición de cómo ha evolucionado el número de refugiados ucranianos desde que estalló la guerra, desde el día 24 de febrero hasta el 12 de marzo, último día con registros. El gráfico enseña tanto el número de refugiados por días como la acumulación total.
+### El presidente ruso Putin comenzó a invadir Ucrania el día 24 de febrero. Desde ese día, la población ucraniana se movilizó en masa para huir de los bombardeos ejecutados por el ejército ruso. Se puede observar como la línea que indica las cifras de refugiados acumulados va ascendiendo a ritmos exponenciales, desde 0 hasta alcanzar los 3 millones de refugiados, que serán más hoy debido a que faltan datos de los últimos días y habrá personas que no hayan sido registradas.
+### Son muchos los ucranianos que huyen de la guerra, por lo que no es fácil organizar esta movilización masiva debido al enorme tráfico de personas en carreteras y transportes. Por eso, se puede analizar que los números son ascendentes en la línea roja de acumulado, pero la curva de ‘Diferencia del día anterior’ es prácticamente una recta. Esto se debe a que los refugiados tienen que movilizarse poco a poco y de forma progresiva y ordenada. Las personas se trasladan a un ritmo constante y lento porque son millones de personas en masa moviéndose al mismo tiempo.
+### Y no solo al mismo tiempo, sino que se trasladan dentro del mismo espacio, por lo que se producen bloqueos y paralizaciones. Este factor contribuye también a que en el gráfico la línea naranja de ‘Diferencia del día anterior’ no muestre apenas variedad ni picos altos o bajos. La crisis de refugiados siempre es una movilización lenta por la masividad, el corto espacio, el poco tiempo y el contexto de guerra.
+
+## URL Infografía
+## https://www.epdata.es/refugiados-ucranianos-huido-guerra-rusia/fc5de9dc-3fe0-4cf3-8d89-dde1085c15cb
