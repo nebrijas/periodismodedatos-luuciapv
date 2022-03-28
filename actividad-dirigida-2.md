@@ -22,6 +22,9 @@ Para que el código funicone, repetimos las instrucciones 20 veces, ya que son 2
 ## Pregunta
 Realizamos la pregunta, que este caso es la siguiente: "¿QUIERES CONOCER LOS 20 PAÍSES QUE HAN OBTENIDO MÁS MEDALLAS EN 2020?", a partir de ella se comienza. En el siguiente paso es que el usuario pulse a la tecla 's' del teclado, por lo que se le escribe también esta orden. Esto lo identificará como correcto, el código indica escrito "De acuerdo" y se empieza el bucle y aparecerán las respuestas a la pregunta.
 
+## Bucle para obtener los datos
+Y, finalmente, el bucle para obtener los datos es el último paso. Sin él no se, da la posibilidad de 'seguir jugando', que en este caso la hemos nombrado como 'Qué lástima, y...'
+
 ## Este es el codigo de la Actividad Diriga 2
 
 ```
