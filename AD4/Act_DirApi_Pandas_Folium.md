@@ -1318,7 +1318,7 @@ mapa
 
 
 
-# Mapa con icono y gaurdar mapa
+# Mapa con icono y guardar mapa
 En la función `map()` de `folium` hay una propiedad `tiles` que puede tener como valor `Stamen Terrain`. Crea un mapa con las coordenadas de Madrid y sobre ese mapa un marcador con la función `Marker()` de `folium` cuya propiedad `icon` tiene como valor `folium.Icon(color='green')` Finalmente guardamos el mapa con `save('tipo.html')`
 
 
