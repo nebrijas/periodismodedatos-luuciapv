@@ -1339,5 +1339,5 @@ mapa
 
 
 ```python
-mapa.save('tipo.html')
+mapa.save('./tipo.html')
 ```
