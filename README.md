@@ -6,4 +6,4 @@ Esta es la [Actividad Dirigida2.md](actividad-dirigida-2.md)
 
 Esta es la [Actividad Dirigida3.md](AD3/AD3_api-covid-19-pandas.md)
 
-Esta es la [Actividad Dirigida4.md](AD4/Act.DirApi Pandas Folium.md)
+Esta es la [Actividad Dirigida4.md](AD4/Act_DirApi_Pandas_Folium.md)
