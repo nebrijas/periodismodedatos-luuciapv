@@ -1,3 +1,5 @@
 # PERIODISMO DE DATOS II: HERRAMIENTAS DIGITALES PARA LA VISUALIZACIÓN Y PRESENTACIÓN DE DATOS
 
-Enlace a [Actividad Dirigida1.md](
+Esta es la [Actividad Dirigida1.md](ad.md1)
+
+esta es la [
